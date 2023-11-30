@@ -1,6 +1,6 @@
 #!/usr/bin/env groovy
 package org.demo
 
-class GlobalVars {
+class DemoClass {
    static String foo = "bar"
 }
